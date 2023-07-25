@@ -14,3 +14,5 @@ Petri Nets
 High entropy: degree of uncertainty   
 Goal: Maximize the information gain    
 Directly Follows Graph (DFG)-based process map
+
+## Week 3
