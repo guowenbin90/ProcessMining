@@ -1,6 +1,6 @@
 # Process mining for python
-
-https://pm4py.fit.fraunhofer.de/
+https://pm4py.fit.fraunhofer.de/  
+Coursera: [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
 ## Week 1
 1. Discovery
 - Alpha Miner
