@@ -1,6 +1,7 @@
-# Process mining for python
-https://pm4py.fit.fraunhofer.de/  
-Coursera: [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
+# Process mining for python 
+Coursera: [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)  
+[pm4py](https://pm4py.fit.fraunhofer.de/) is a Python library implementing a variety of [process mining](https://en.wikipedia.org/wiki/Process_mining) algorithms.
+
 ## Week 1
 1. Discovery
 - Alpha Miner
